@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Intent Exam</string>
+    <string name="preferences_user">users</string>
+    <string name="preferences_user_username">username</string>
+    <string name="nama_pengguna">Nama pengguna</string>
+    <string name="kata_sandi">Kata sandi</string>
+    <string name="masuk">Masuk</string>
+    <string name="selamat_datang">Selamat datang</string>
+    <string name="masuk_kembali_ke_akun_anda">Masuk kembali ke akun Anda</string>
+    <string name="masuk_pengguna">Masuk pengguna</string>
+
+    <string name="user_username">Admin</string>
+    <string name="user_password">admin</string>
+
+    <string name="nama_pengguna_tidak_boleh_kosong">Nama pengguna tidak boleh kosong!</string>
+    <string name="kata_sandi_tidak_boleh_kosong">Kata sandi tidak boleh kosong!</string>
+    <string name="nama_pengguna_atau_kata_sandi_salah">Nama pengguna atau kata sandi salah!</string>
+
+    <string name="kesalahan">Kesalahan!</string>
+    <string name="oke">Oke!</string>
+    <string name="profile">Profile</string>
+
+    <string name="gagal_mendapatkan_foto">Gagal mendapatkan foto!</string>
+    <string name="keluar">Keluar</string>
+    <string name="eugene_feilian_putra_rangga">Eugene Feilian Putra Rangga</string>
+    <string name="mobile_developer_web_developer">Mobile Developer | Web Developer</string>
+    <string name="https_eugenefeilianputrarangga_vercel_app_underline"><u>https://eugenefeilianputrarangga.vercel.app/</u></string>
+    <string name="https_eugenefeilianputrarangga_vercel_app">https://eugenefeilianputrarangga.vercel.app/</string>
+    <string name="https_github_com_Eugene702">https://github.com/Eugene702</string>
+    <string name="github">GitHub</string>
+
+    <string name="apakah_kamu_yakin_ingin_keluar">Apakah kamu yakin ingin keluar?</string>
+    <string name="batalkan">Batalkan!</string>
+</resources>
